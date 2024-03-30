@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  The new DNS Server IP address that was configured can be seen in the output. Circled in <p style="color:blue;">blue</p>
+  The new DNS Server IP address that was configured can be seen in the output. Circled in blue.
 </p>
 
 ![Screenshot 2024-03-30 163700](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/857b784d-6069-4aea-804a-a0298608c143)
