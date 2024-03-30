@@ -13,3 +13,9 @@
 <p>
 <b>By executing the command, the DNS server IP address configuration for the device was changed. The graphical user interface can be used to achieve the same outcome but will take more time.</b>
 </p>
+
+<p>
+  The new DNS Server IP address that was configured can be seen in the output. Circled in <p style="color:blue;">blue</p>
+</p>
+
+![Screenshot 2024-03-30 163700](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/857b784d-6069-4aea-804a-a0298608c143)
