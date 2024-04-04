@@ -3,7 +3,7 @@
 
 
 <p>
-Windows operating systems can be managed using the command prompt instead of the graphical user interface.
+Windows operating systems can be managed using the command prompt instead of the graphical user interface(<a href="https://blog.hubspot.com/website/what-is-gui">GUI</a>).
   </p>
 
   <p>In this project I'll show you the  commonly used Windows command line tools.</p>
@@ -12,11 +12,13 @@ Windows operating systems can be managed using the command prompt instead of the
 
 <h3>You ready?</h3>
 
+![hacker gif](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/1b713340-6fd6-4db3-b59a-aaf2210898b0)
+
+
 <p>
   Click Start and type the following: <b>cmd</b>
 </p>
 
-![hacker gif](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/1b713340-6fd6-4db3-b59a-aaf2210898b0)
 
 
  <p>Right-click <b>Command Prompt</b> and select <b>Run as administrator.</b></p>
