@@ -16,7 +16,8 @@ Windows operating systems can be managed using the command prompt instead of the
   Click Start and type the following: <b>cmd</b>
 </p>
 
-https://media3.giphy.com/media/kJ1iL1ZQIyibu/200w.gif?cid=6c09b952y0sappuphj28k3346kscc4hz6w96ogthesjkf7tp&ep=v1_gifs_search&rid=200w.gif&ct=g
+![hacker gif](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/1b713340-6fd6-4db3-b59a-aaf2210898b0)
+
 
  <p>Right-click <b>Command Prompt</b> and select <b>Run as administrator.</b></p>
 
