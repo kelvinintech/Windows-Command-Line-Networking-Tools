@@ -1,5 +1,17 @@
 # Windows-Command-Line-Networking-Tools
 
+
+
+<p>
+Windows operating systems can be managed using the command prompt instead of the graphical user interface.
+  </p>
+
+  <p>In this project I'll show you the  commonly used Windows command line tools.</p>
+
+  
+
+<h3>You ready?</h3>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhacker&psig=AOvVaw1DAnJmKp0nkLat3eoCirq2&ust=1712338392222000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjDm9-LqYUDFQAAAAAdAAAAABAJ
 <p>
   Click Start and type the following: <b>cmd</b>
 </p>
