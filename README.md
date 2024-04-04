@@ -25,7 +25,7 @@ Windows operating systems can be managed using the command prompt instead of the
 
 ![Screenshot 2024-03-30 162619](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/158a07df-97a3-441a-a26e-321a33f23bb6)
 
-<p>If prompted, Click <b>Yes</b>in the User Account Control pop-up window.</p>
+<p>If prompted, Click <b>Yes</b> in the User Account Control pop-up window.</p>
 
 <img width="442" alt="say yesScreenshot 2024-04-04 134025" src="https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/35255272-7458-45d4-b6a7-e3d4b38c1904">
 
