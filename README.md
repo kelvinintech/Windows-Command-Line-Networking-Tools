@@ -11,11 +11,12 @@ Windows operating systems can be managed using the command prompt instead of the
   
 
 <h3>You ready?</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhacker&psig=AOvVaw1DAnJmKp0nkLat3eoCirq2&ust=1712338392222000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjDm9-LqYUDFQAAAAAdAAAAABAJ
+
 <p>
   Click Start and type the following: <b>cmd</b>
 </p>
 
+https://media3.giphy.com/media/kJ1iL1ZQIyibu/200w.gif?cid=6c09b952y0sappuphj28k3346kscc4hz6w96ogthesjkf7tp&ep=v1_gifs_search&rid=200w.gif&ct=g
 
  <p>Right-click <b>Command Prompt</b> and select <b>Run as administrator.</b></p>
 
