@@ -34,6 +34,31 @@ Windows operating systems can be managed using the command prompt instead of the
 
 ![Screenshot 2024-03-30 162806](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/0e2e8cc0-bd41-4fe5-9667-d168e9ad4b40)
 
+<p>Lets look at this command in further detail</p>
+
+<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+</p>
+
+<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+</p>
+
+
+<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+</p>
+
+
+<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+</p>
+
+
+<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+</p>
+
+
+<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+</p>
+
+
 <p>
 <b>By executing the command, the DNS server IP address configuration for the device was changed. The graphical user interface can be used to achieve the same outcome but will take more time.</b>
 </p>
