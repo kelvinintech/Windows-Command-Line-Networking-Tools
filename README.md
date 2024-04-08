@@ -34,6 +34,10 @@ Windows operating systems can be managed using the command prompt instead of the
 
 ![Screenshot 2024-03-30 162806](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/0e2e8cc0-bd41-4fe5-9667-d168e9ad4b40)
 
+![pause](https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools/assets/110644520/1c693fcc-f40f-421a-84c4-008f3967459b)
+
+
+
 <p>Lets look at this command in further detail</p>
 
 <p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
