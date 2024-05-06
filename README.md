@@ -43,24 +43,47 @@ Windows operating systems can be managed using the command prompt instead of the
 <p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
 </p>
 
-<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+<p><b>interface</b>:  Specifies that the following operation should be applied to a network interface.
 </p>
 
 
-<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+<p><b>ipv4</b>: Specifies that the following operation should be applied to the IPv4 configuration of the network interface.
 </p>
 
 
-<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+<p><b>set </b>: This subcommand is used to modify configuration settings.
 </p>
 
 
-<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+<p><b>dnsservers</b>: Specifies that the operation being performed is related to DNS (Domain Name System) servers.
 </p>
 
 
-<p><b>netsh</b>: This is a command-line utility in Windows operating systems that allows you to configure and manage various network settings. It stands for "network shell.
+<p><b>Ethernet</b>: This is the name of the network interface for which the DNS server settings are being modified. It could be different on your system depending on your network setup.
 </p>
+
+<p><b>Static</b>:
+   Specifies that the DNS server addresses provided in the command will be set statically, meaning they won't change unless you modify them again.
+</p>
+
+<p><b>Static</b>:
+   Specifies that the DNS server addresses provided in the command will be set statically, meaning they won't change unless you modify them again.
+</p>
+
+<p>
+  <b>
+    192.168.255.13
+  </b>
+  This is the IP address of the DNS server you want to set as the primary DNS server for the specified network interface.
+</p>
+
+<p>
+  <b>
+    Primary
+  </b>
+  Indicates that the DNS server specified (192.168.255.13 in this case) should be set as the primary DNS server. This means it will be used primarily for DNS resolution, and if it fails, alternative DNS servers configured on the system may be used.
+</p>
+
 
 
 <p>
